@@ -3,5 +3,4 @@
 
 @section('content')
   <h1>帮助页</h1>
-  测试一下
 @stop
